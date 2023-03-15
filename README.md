@@ -47,7 +47,13 @@ I am a computer engineer with a master's degree in Data Science, working as a Da
 </p>
 
 
+### 🧰 Other Tools
 
+<p>
+  <a href=""><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&logo=docker&logoColor=white"></a>
+  <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&logo=Jupyter&logoColor=white"></a>
+  <a href="https://www.docker.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&logo=amazon-aws&logoColor=white"></a>
+</p>
 
 
 
