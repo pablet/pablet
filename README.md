@@ -5,7 +5,7 @@
 
 <hr>
 
-I am a Computer Engineer with a master's degree in Data Science, working as a Data Scientist. I enjoy analyzing data and working on interesting projects. I am always looking for ways to improve my work and stay up-to-date in the field of data science. I am curious and like to experiment with new tools and technologies.
+I'm a Computer Engineer with a master's degree in Data Science, working as a Data Scientist. I enjoy analyzing data and working on interesting projects. I'm always looking for ways to improve my work and stay up-to-date in the field of data science. I'm curious and like to experiment with new tools and technologies.
 
 ## 📋 &nbsp;Summary
 
