@@ -26,15 +26,30 @@ I am a computer engineer with a master's degree in Data Science, working as a Da
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 </p>
 
-### 📖 Main Librerías
+### 📖 Main Libraries
 
 <p>
     <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://pandas.pydata.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&logo=PyTorch&logoColor=white"></a>
+    <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&logo=PyTorch&logoColor=white"></a>
     <a href="https://www.tensorflow.org/?hl=es-419"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://huggingface.co/"><img alt="HuggingFaceEcosystem" src="https://img.shields.io/badge/HuggingFaceEcosystem-FFFF00"></a>
 </p>
+
+
+### :bookmark: Version Control
+
+<p>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white"></a>
+  <a href="https://gitlab.com/"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&logo=gitlab&logoColor=white"></a>
+  <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/github%20-%23121011.svg?&logo=github&logoColor=white"></a>
+</p>
+
+
+
+
+
 
 <!--
 ### Hi there 👋
